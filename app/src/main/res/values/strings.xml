@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="hello_world_text">Hello ENSSAT !</string>
+    <string name="random_heading">Here is a random number between 0 and %1d.</string>
+    <string name="reset_dialog_title">Hummm !!!</string>
+    <string name="reset_dialog_message">Are you sure you want to reset the counter ?</string>
+    <string name="reset_dialog_negative">Cancel</string>
+    <string name="reset_dialog_positive">Reset</string>
+</resources>
